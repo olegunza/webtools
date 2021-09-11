@@ -1,2 +1,2 @@
-httpstat https://github.com/davecheney/httpstat
+httpstat https://github.com/davecheney/httpstat<br>
 brew install httpstat
